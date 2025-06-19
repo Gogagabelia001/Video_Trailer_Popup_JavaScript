@@ -57,7 +57,7 @@ Click the “Watch now” button to open a full-screen trailer popup with smooth
    Just open index.html in your browser
    (You can also use Live Server if using VS Code)
 
-🧠 Potential Improvements
+## 🧠 Potential Improvements
 - 📱 Add mobile-optimized video controls
 - 🌙 Add dark/light toggle theme
 - ⌨️ Add keyboard support (e.g., Esc key to close popup)
@@ -65,10 +65,10 @@ Click the “Watch now” button to open a full-screen trailer popup with smooth
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Goga Gabelia
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
