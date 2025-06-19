@@ -58,10 +58,10 @@ Click the “Watch now” button to open a full-screen trailer popup with smooth
    (You can also use Live Server if using VS Code)
 
 🧠 Potential Improvements
-• 📱 Add mobile-optimized video controls
-• 🌙 Add dark/light toggle theme
-• ⌨️ Add keyboard support (e.g., Esc key to close popup)
-• 🔒 Sanitize/validate dynamic video sources for security
+- 📱 Add mobile-optimized video controls
+- 🌙 Add dark/light toggle theme
+- ⌨️ Add keyboard support (e.g., Esc key to close popup)
+- 🔒 Sanitize/validate dynamic video sources for security
 
 ---
 
